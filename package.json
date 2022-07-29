@@ -11,7 +11,7 @@
     "react-dom": "^17.0.2",
     "react-scripts": "5.0.0"
   },
-  "homepage": "https://dimazu123.github.io/sia-memory-game/",
+  "homepage": "https://dimazu65.github.io/sia-memory-game/",
   "scripts": {
    "predeploy": "npm run build",
    "deploy": "gh-pages -d build", 
